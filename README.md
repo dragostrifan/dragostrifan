@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dragostrifan&theme=highcontrast&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragostrifan&layout=compact)](https://github.com/dragostrifan/github-readme-stats)
 
 
 ---
